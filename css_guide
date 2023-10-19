@@ -1,0 +1,11 @@
+.item_title-3: The main titles of service categories in the accordion menu - For example: "Website Design and Development"
+.item_paragraph--3-2: The last paragraph of the 5th service title. "Through HTML, CSS, and JavaScript refinements, I ensure your website consistently adapts, ensuring its relevance..."
+
+
+ipad mini:
+<div data-w-id="88602e4d-a53f-87c5-4359-226af1d304d8" class="container-w2" style="opacity: 0;">
+
+    element.style {
+        opacity: 0;
+    } --> bu kısmı ara bul, 0'ı 100 yap
+    "let's work together" yazısı görünmüyor
