@@ -6399,7 +6399,7 @@ figure {
   }
 
   .main-section.bg-main-gray {
-    overflow: visible;
+    overflow-y: visible;
   }
 
   .letter-font {
