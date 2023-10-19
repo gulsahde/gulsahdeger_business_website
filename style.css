@@ -804,16 +804,28 @@ textarea.w-input, textarea.w-select {
 
 /* ekleme */
 @media screen and (min-width: 815px) and (max-width: 889px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .slide__col.col--2 {
     padding: 110px 20px 55px 40px;
   }
 }
 @media screen and (min-width: 900px) and (max-width: 915px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .slide__col.col--2 {
     padding: 135px 20px 55px 40px;
   }
 }
 @media screen and (min-width: 916px) and (max-width: 991px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .slide__col.col--2 {
     padding: 55px 20px 55px 40px;
   }
@@ -821,6 +833,10 @@ textarea.w-input, textarea.w-select {
 /* ekleme */
 
 @media screen and (max-width: 991px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .w-container {
     max-width: 728px;
   }
@@ -889,6 +905,10 @@ textarea.w-input, textarea.w-select {
 }
 
 @media screen and (max-width: 767px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .w-hidden-main, .w-hidden-medium {
     display: inherit !important;
   }
@@ -958,6 +978,10 @@ textarea.w-input, textarea.w-select {
 }
 
 @media screen and (max-width: 479px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .w-container {
     max-width: none;
   }
@@ -1449,6 +1473,10 @@ textarea.w-input, textarea.w-select {
 }
 
 @media screen and (max-width: 767px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .w-nav-brand {
     padding-left: 10px;
   }
@@ -1687,6 +1715,10 @@ textarea.w-input, textarea.w-select {
 }
 
 @media (min-width: 768px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .w-lightbox-content {
     height: 96vh;
     margin-top: 2vh;
@@ -1994,6 +2026,10 @@ textarea.w-input, textarea.w-select {
 }
 
 @media screen and (max-width: 991px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .w-nav[data-collapse="medium"] .w-nav-menu {
     display: none;
   }
@@ -4996,6 +5032,10 @@ figure {
 }
 
 @media screen and (min-width: 1280px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .typo-zoom-text-wrapper {
     margin-top: 0;
   }
@@ -5019,6 +5059,10 @@ figure {
 }
 
 @media screen and (min-width: 1440px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .title2 {
     font-size: 9vw;
   }
