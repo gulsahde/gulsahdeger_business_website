@@ -3,11 +3,12 @@ html {
   -webkit-text-size-adjust: 100%;
   font-family: sans-serif;
   overflow-x: hidden !important;
+  border-style: hidden;
 }
 
 body {
   margin: 0;
-  overscroll-behavior-x: none;
+  border-style: hidden;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
