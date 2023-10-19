@@ -5574,7 +5574,7 @@ figure {
     object-fit: fill;
     border-bottom-style: none;
     border-right-style: none;
-    overflow: visible;
+    overflow-y: visible;
   }
 
   .slide__img-cone {
