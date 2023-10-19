@@ -10,7 +10,8 @@ body {
   overflow-x: hidden !important;
 
    overflow-y: auto;
-  -webkit-overflow-scrolling: touch
+  -webkit-overflow-scrolling: touch;
+  width:100%;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
