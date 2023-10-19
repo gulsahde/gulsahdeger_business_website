@@ -2040,6 +2040,10 @@ textarea.w-input, textarea.w-select {
 }
 
 @media screen and (max-width: 767px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .w-nav[data-collapse="small"] .w-nav-menu {
     display: none;
   }
@@ -2054,6 +2058,10 @@ textarea.w-input, textarea.w-select {
 }
 
 @media screen and (max-width: 479px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .w-nav[data-collapse="tiny"] .w-nav-menu {
     display: none;
   }
@@ -2117,6 +2125,10 @@ textarea.w-input, textarea.w-select {
 }
 
 @media screen and (max-width: 479px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .w-tab-link {
     display: block;
   }
@@ -5133,6 +5145,10 @@ figure {
 }
 
 @media screen and (min-width: 1920px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .container-w2 {
     margin-top: 4vh;
     padding-left: 0;
@@ -5328,6 +5344,10 @@ figure {
 }
 
 @media screen and (max-width: 991px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   body {
     font-size: .87rem;
   }
@@ -5702,6 +5722,10 @@ figure {
 }
 
 @media screen and (max-width: 767px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   body {
     font-size: .75rem;
   }
@@ -6235,6 +6259,10 @@ figure {
   }
 }
 @media screen and (min-width: 200px) and (max-width: 281px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .title2 {
     font-size: 18vw;
   }
@@ -6774,6 +6802,10 @@ figure {
 
 
 @media screen and (min-width: 282px) and (max-width: 479px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   .title2 {
     font-size: 18vw;
   }
@@ -7326,6 +7358,10 @@ figure {
 }
 
 @media screen and (min-width: 1920px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   #w-node-_0b07a23d-d0c7-3c55-3eb7-301f0a7f3915-0a7f3911 {
     align-self: center;
     justify-self: center;
@@ -7333,6 +7369,10 @@ figure {
 }
 
 @media screen and (max-width: 991px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   #w-node-e1dfce6c-975f-fc52-b0f5-990c00d54a22-73aa466d {
     grid-area: 1 / 1 / 3 / 2;
   }
@@ -7343,6 +7383,10 @@ figure {
 }
 
 @media screen and (max-width: 767px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   #w-node-e1dfce6c-975f-fc52-b0f5-990c00d54a22-73aa466d {
     grid-column-end: 3;
   }
@@ -7358,6 +7402,10 @@ figure {
 }
 
 @media screen and (max-width: 479px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
   #w-node-_0b07a23d-d0c7-3c55-3eb7-301f0a7f3915-0a7f3911 {
     grid-row-end: 5;
     justify-self: center;
