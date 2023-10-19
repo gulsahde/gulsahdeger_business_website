@@ -708,7 +708,7 @@
             "max-height": [N, w],
             "line-height": [N, y],
             "scroll-top": [P, t, "scrollTop"],
-            "scroll-left": [P, t, "scrollLeft"]
+            //"scroll-left": [P, t, "scrollLeft"]
           }, Z = {};
           G.transform && (Y.transform = [Q], Z = {
             x: [w, "translateX"],
