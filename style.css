@@ -3777,7 +3777,7 @@ figure {
 
 .swiper.swiper--reviews-numb {
   width: 100%;
-  overflow: visible;
+  overflow-y: visible;
 }
 
 .swiper.swiper--reviews {
