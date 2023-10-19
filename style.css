@@ -8,7 +8,6 @@ html {
 body {
   margin: 0;
   overscroll-behavior-x: none;
-  overflow-x: hidden;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
