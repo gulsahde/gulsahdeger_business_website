@@ -708,7 +708,7 @@
             "max-height": [N, w],
             "line-height": [N, y],
             "scroll-top": [P, t, "scrollTop"],
-            //"scroll-left": [P, t, "scrollLeft"]
+            "scroll-left": [P, t, "scrollLeft"]
           }, Z = {};
           G.transform && (Y.transform = [Q], Z = {
             x: [w, "translateX"],
@@ -10889,7 +10889,7 @@
           const rootElement = isCSS1Compat ? document.documentElement : document.body;
           return () => ({
             // $FlowFixMe
-            //scrollLeft: supportOffset ? window.pageXOffset : rootElement.scrollLeft,
+            scrollLeft: supportOffset ? window.pageXOffset : rootElement.scrollLeft,
             // $FlowFixMe
             scrollTop: supportOffset ? window.pageYOffset : rootElement.scrollTop,
             // required to remove elasticity in Safari scrolling.
