@@ -10889,7 +10889,7 @@
           const rootElement = isCSS1Compat ? document.documentElement : document.body;
           return () => ({
             // $FlowFixMe
-            scrollLeft: supportOffset ? window.pageXOffset : rootElement.scrollLeft,
+            //scrollLeft: supportOffset ? window.pageXOffset : rootElement.scrollLeft,
             // $FlowFixMe
             scrollTop: supportOffset ? window.pageYOffset : rootElement.scrollTop,
             // required to remove elasticity in Safari scrolling.
