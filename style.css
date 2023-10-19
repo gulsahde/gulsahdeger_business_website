@@ -370,7 +370,7 @@ html[data-w-dynpage] [data-w-cloak] {
   bottom: 12px !important;
   left: auto !important;
   right: 12px !important;
-  overflow: hidden !important;
+  overflow: visible !important;
   transform: none !important;
 }
 
