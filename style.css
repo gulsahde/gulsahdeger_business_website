@@ -4635,6 +4635,7 @@ figure {
   max-width: 1280px;
   margin-left: auto;
   margin-right: auto;
+  padding-top:12vh;
   text-decoration: none;
   position: relative;
 }
