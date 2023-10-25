@@ -6466,6 +6466,10 @@ figure {
     bottom: auto;
     left: 88vw;
     right: auto;
+    display:none;
+  }
+  .accordion-wrapper-2 {
+    margin-left: -12vw;
   }
 
   .item_paragraph--2-2 {
