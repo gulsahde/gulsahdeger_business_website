@@ -1741,6 +1741,7 @@ textarea.w-input, textarea.w-select {
     padding: 115px 20px 55px 40px;
   }
   /* ekleme */
+}
 
 .w-lightbox-inactive, .w-lightbox-inactive:hover {
   opacity: 0;
