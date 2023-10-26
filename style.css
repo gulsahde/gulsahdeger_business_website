@@ -7337,7 +7337,7 @@ figure {
   }
 }
 
-@media only screen and (min-width: 768px) and (orientation: landscape) {
+@media only screen and (min-width: 740px) and (orientation: landscape) {
   .slide__col.col--2 {
     padding: 40px 20px 55px 40px;
   }
@@ -7347,7 +7347,11 @@ figure {
   .emailbutton{
     padding:7vh 0;
   }
-
+  .slide__img{
+    height: auto;
+    width: auto;
+    padding-left: 17%;
+  }
 }
 
 @media screen and (max-width: 479px) {
