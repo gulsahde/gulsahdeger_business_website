@@ -6118,8 +6118,9 @@ figure {
   }
 
   .slide__img {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto;
+    padding-left: 17%;
   }
 
   .swiper-wrapper-2 {
