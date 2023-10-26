@@ -1743,7 +1743,7 @@ textarea.w-input, textarea.w-select {
   /* ekleme */
 
   .swiper-slide.slide--reviews {
-    padding-top: 0;
+    padding-top: 0 !important;
   }
 }
 
