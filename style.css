@@ -893,7 +893,6 @@ textarea.w-input, textarea.w-select {
 }
 
 @media screen and (max-width: 767px) {
-
   .w-hidden-main, .w-hidden-medium {
     display: inherit !important;
   }
@@ -6195,6 +6194,7 @@ figure {
 
   .emailbutton {
     letter-spacing: -1px;
+    padding:7vh 0;
   }
 
   .div-block-3 {
