@@ -1741,6 +1741,10 @@ textarea.w-input, textarea.w-select {
     padding: 115px 20px 55px 40px;
   }
   /* ekleme */
+
+  .swiper-slide.slide--reviews {
+    padding-top: 0;
+  }
 }
 
 .w-lightbox-inactive, .w-lightbox-inactive:hover {
@@ -5303,14 +5307,6 @@ figure {
     padding-bottom: 140px;
   }
 }
-
-/*newww*/
-@media screen and (max-width: 991px) and (orientation: landscape) {
-  .swiper-slide.slide--reviews {
-    padding-top: 0;
-  }
-}
-/*newww*/
 
 @media screen and (max-width: 991px) {
   
