@@ -7337,6 +7337,19 @@ figure {
   }
 }
 
+@media only screen and (min-width: 768px) and (orientation: landscape) {
+  .slide__col.col--2 {
+    padding: 40px 20px 55px 40px;
+  }
+  .div-block-3{
+    padding-top:30vh;
+  }
+  .emailbutton{
+    padding:7vh 0;
+  }
+
+}
+
 @media screen and (max-width: 479px) {
 
   #w-node-_0b07a23d-d0c7-3c55-3eb7-301f0a7f3915-0a7f3911 {
