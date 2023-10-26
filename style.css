@@ -1729,11 +1729,18 @@ textarea.w-input, textarea.w-select {
   }
 
   /* ekleme */
-  .slide__col.col--2 {
+  /*.slide__col.col--2 {
     padding: 85px 20px 55px 40px;
-  }
+  }*/
   /* ekleme */
 }
+
+@media (min-width: 768px) and (max-width:814px){
+  /* ekleme */
+  .slide__col.col--2 {
+    padding: 115px 20px 55px 40px;
+  }
+  /* ekleme */
 
 .w-lightbox-inactive, .w-lightbox-inactive:hover {
   opacity: 0;
@@ -5295,6 +5302,14 @@ figure {
     padding-bottom: 140px;
   }
 }
+
+/*newww*/
+@media screen and (max-width: 991px) and (orientation: landscape) {
+  .swiper-slide.slide--reviews {
+    padding-top: 0;
+  }
+}
+/*newww*/
 
 @media screen and (max-width: 991px) {
   
