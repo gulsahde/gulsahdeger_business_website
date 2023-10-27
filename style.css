@@ -821,7 +821,7 @@ textarea.w-input, textarea.w-select {
     padding-top:0;
   }
   .contactbuttonspace{
-    margin-top:25vh;
+    margin-top:25vh !important;
   }
 }
 @media screen and (min-width: 900px) and (max-width: 916px) {
