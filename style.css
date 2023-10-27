@@ -803,6 +803,15 @@ textarea.w-input, textarea.w-select {
 }
 
 /* ekleme */
+@media screen and (min-width: 815px) and (max-width: 899px) and (min-height:1000px) {
+
+  .slide__col.col--2 {
+    padding: 120px 20px 55px 40px;
+  }
+  .swiper-slide.slide--reviews{
+    padding-top:0;
+  }
+}
 @media screen and (min-width: 815px) and (max-width: 899px) {
 
   .slide__col.col--2 {
@@ -822,6 +831,12 @@ textarea.w-input, textarea.w-select {
     padding: 55px 20px 55px 40px;
   }
 }
+/*
+@media screen and (min-width: 991px) and (max-width: 1400px) {
+  .slide__col.col--2 {
+    padding: 55px 20px 55px 40px;
+  }
+}*/
 /* ekleme */
 
 @media screen and (max-width: 991px) {
