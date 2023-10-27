@@ -803,7 +803,7 @@ textarea.w-input, textarea.w-select {
 }
 
 /* ekleme */
-@media screen and (min-width: 815px) and (max-width: 899px) and (min-height:1000px){
+@media screen and (min-width: 815px) and (max-width: 899px) and (min-height:1000px) and (max-height:1400px){
 
   .slide__col.col--2 {
     padding: 120px 20px 55px 40px;
@@ -812,7 +812,7 @@ textarea.w-input, textarea.w-select {
     padding-top:0;
   }
 }
-@media screen and (min-width: 815px) and (max-width: 899px) and (min-height:200px){
+@media screen and (min-width: 815px) and (max-width: 899px) and (min-height:200px) and (max-height:999px){
 
   .slide__col.col--2 {
     padding: 30px 20px 55px 40px;
