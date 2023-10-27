@@ -1471,7 +1471,7 @@ textarea.w-input, textarea.w-select {
   outline: 0;
 }
 
- {
+@media screen and (max-width: 767px) {
 
   .w-nav-brand {
     padding-left: 10px;
