@@ -4996,7 +4996,7 @@ figure {
   align-items: center;
   margin-left: 140px;
   margin-right: 140px;
-  padding: 3vh 0;
+  padding: 7vh 0;
   font-size: 4.6vw;
   transition: all .35s;
   display: flex;
@@ -5011,6 +5011,7 @@ figure {
 
 .div-block-3 {
   padding-top: 25vh;
+  /*15vh*/
 }
 
 .text-block-6 {
