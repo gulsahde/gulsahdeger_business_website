@@ -803,8 +803,7 @@ textarea.w-input, textarea.w-select {
 }
 
 /* ekleme */
-@media screen and (min-width: 815px) and (max-width: 899px),
-screen and (min-height:1000px) {
+@media (min-height:1000px), screen and (min-width: 815px) and (max-width: 899px){
 
   .slide__col.col--2 {
     padding: 120px 20px 55px 40px;
