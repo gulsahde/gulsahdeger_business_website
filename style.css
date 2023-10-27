@@ -5,7 +5,7 @@ html {
   overflow-x: hidden !important;
 }
 
-body {
+body {f
   margin: 0;
   contain: paint;
 }
@@ -810,6 +810,9 @@ textarea.w-input, textarea.w-select {
   }
   .swiper-slide.slide--reviews{
     padding-top: 0;
+  }
+  .emailbutton{
+    margin-top:17vh;
   }
 }
 @media screen and (min-width: 815px) and (max-width: 899px) and (min-height:200px) and (max-height:999px){
