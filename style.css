@@ -1471,7 +1471,7 @@ textarea.w-input, textarea.w-select {
   outline: 0;
 }
 
-@media screen and (max-width: 767px) {
+ {
 
   .w-nav-brand {
     padding-left: 10px;
@@ -6768,6 +6768,12 @@ figure {
 
   .text-block-6 {
     font-size: 3vw;
+  }
+
+  /*newww*/
+  .div-block-3 {
+    padding-top: 20vh;
+    /*25vh sonn*/
   }
 
 }
