@@ -812,12 +812,12 @@ textarea.w-input, textarea.w-select {
     padding-top:0;
   }
 }
-@media screen and (min-width: 900px) and (max-width: 915px) {
+@media screen and (min-width: 900px) and (max-width: 916px) {
   .slide__col.col--2 {
     padding: 135px 20px 55px 40px;
   }
 }
-@media screen and (min-width: 916px) and (max-width: 991px) {
+@media screen and (min-width: 917px) and (max-width: 991px) {
   .slide__col.col--2 {
     padding: 55px 20px 55px 40px;
   }
