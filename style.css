@@ -820,6 +820,9 @@ textarea.w-input, textarea.w-select {
   .swiper-slide.slide--reviews{
     padding-top:0;
   }
+  .div-block-3{
+    padding-top:30vh;
+  }
 }
 @media screen and (min-width: 900px) and (max-width: 916px) {
   .slide__col.col--2 {
