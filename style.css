@@ -811,7 +811,7 @@ textarea.w-input, textarea.w-select {
   .swiper-slide.slide--reviews{
     padding-top: 0;
   }
-  ..contactbuttonspace{
+  .contactbuttonspace{
     margin-top:15vh;
   }
 }
