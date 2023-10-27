@@ -7343,7 +7343,7 @@ figure {
   }
 }
 
-@media only screen and (min-width: 740px) and (min-width: 850px) and (orientation: landscape) {
+@media only screen and (min-width: 740px) and (orientation: landscape) {
   .slide__col.col--2 {
     padding: 40px 20px 55px 40px;
   }
@@ -7359,6 +7359,7 @@ figure {
     padding-left: 17%;
   }
 }
+/*
 @media only screen and (min-width: 851px) and (min-width: 900px) and (orientation: landscape) {
   .slide__col.col--2 {
     padding: 25px 20px 55px 40px;
@@ -7392,6 +7393,7 @@ figure {
     padding-left: 17%;
   }
 }
+*/
 
 
 @media screen and (max-width: 479px) {
