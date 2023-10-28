@@ -5009,8 +5009,8 @@ figure {
 }
 
 .div-block-3 {
-  padding-top: 20vh;
-  /*15vh*/
+  padding-top: 25vh;
+  /*20vh*/
 }
 
 .text-block-6 {
@@ -5316,6 +5316,43 @@ figure {
     padding-bottom: 140px;
   }
 }
+
+@media screen and (min-width: 767px) and (max-width:912px){
+  .div-block-3 {
+    padding-top: 15vh;
+    /*25vh sonn*/
+  }
+
+  .slide__col.col--2{
+    padding: 110px 20px 55px 40px;
+  }
+}
+
+@media screen and (min-width: 913px) and (max-width:1000px){
+  .div-block-3 {
+    padding-top: 35vh;
+    /*25vh sonn*/
+  }
+}
+
+/*deneme olarak eklendi - ipad air (yan) için*/
+@media screen and (min-width: 1001px) and (max-width:1200px){
+  .slide__col.col--2 {
+    padding: 0px 20px 75px 40px;
+    /* 78px 20px 55px 40px; */
+  }
+}
+/*deneme olarak eklendi - ipad air için*/
+
+/*nest hub max*/
+@media screen and (min-width: 1201px) and (max-width:1290px){
+  .slide__col.col--2 {
+    padding: 0px 20px 98px 40px;
+    /* 78px 20px 55px 40px; */
+  }
+}
+/*nest hub max*/
+
 
 @media screen and (max-width: 991px) {
   
@@ -5687,10 +5724,28 @@ figure {
     margin-right: 40px;
   }
 
+}
+
+@media screen and (max-width: 600px) {
   .div-block-3 {
     padding-top: 15vh;
-    /*25vh sonn*/
   }
+  .emailbutton{
+    padding:3vh 0;
+  }
+}
+
+@media screen and (min-width: 601px) and (max-width: 767px) {
+  .emailbutton {
+    letter-spacing: -1px;
+    padding:7vh 0;
+  }
+
+  .div-block-3 {
+    padding-top: 35vh;
+    /*15vh*/
+  }
+
 }
 
 @media screen and (max-width: 767px) {
@@ -6208,16 +6263,6 @@ figure {
 
   .single-marque-div {
     height: 12vh;
-  }
-
-  .emailbutton {
-    letter-spacing: -1px;
-    padding:7vh 0;
-  }
-
-  .div-block-3 {
-    padding-top: 25vh;
-    /*15vh*/
   }
 
   .text-block-6 {
